@@ -1,2 +1,2 @@
-## A Lexicon of interesting dataVisualizations 
+## A Lexicon of interesting data-visualisations 
 
